@@ -11,6 +11,6 @@
 - Pull latest changes ```git pull origin main```
 - Create a branch ```git checkout -b <branch name>```
 - make changes to your branch 
-- push your changes to your fork ```git push orign <branch name>```
+- push your changes to your fork ```git push origin <branch name>```
 - go to github.com and begin Pull request > create the pull req. > add review ...
 
